@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StenlyAndika
 - 👀 I’m interested in Desktop And Web Programming
-- 🌱 I’m currently learning JavaFX Desktop and PHP
+- 🌱 I’m currently learning Rest API
 
 <!---
 StenlyAndika/StenlyAndika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
