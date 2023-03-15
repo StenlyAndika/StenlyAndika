@@ -25,5 +25,5 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 ### GitHub Statistics:
-[![](https://github-readme-stats.vercel.app/api?username=syndicate017&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=syndicate017&layout=compact)](https://github.com/StenlyAndika)
+[![](https://github-readme-stats.vercel.app/api?username=StenlyAndika&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=StenlyAndika&layout=compact)](https://github.com/StenlyAndika)
