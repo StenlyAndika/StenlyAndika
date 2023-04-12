@@ -13,7 +13,7 @@
 
 - 🚀 &nbsp; I’m currently improving Web Development using Laravel, and Mobile App Development using cross-platform framework with Dart / Flutter.
 - 🛠 &nbsp; I’m currently working with Git, Visual Studio Code, REST APIs, SQL, etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/StenlyAndika](https://github.com/StenlyAndika?tab=repositories)).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/StenlyAndika?tab=repositories).
 - 👾 &nbsp; Fun fact: I copied this from my friend and edited it a bit.
 - 📫 &nbsp; How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=stenly.andika@gmail.com).
 
