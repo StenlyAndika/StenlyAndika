@@ -26,6 +26,7 @@
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter"></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></code>
 
 ### GitHub Statistics:
 [![](https://github-readme-stats.vercel.app/api?username=StenlyAndika&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
