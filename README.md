@@ -18,11 +18,11 @@
 - 📫 &nbsp; How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=stenly.andika@gmail.com).
 
 ### Languages and Tools:
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/php" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/laravel"></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter"></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 ### GitHub Statistics:
 [![](https://github-readme-stats.vercel.app/api?username=StenlyAndika&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
