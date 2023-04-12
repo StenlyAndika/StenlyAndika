@@ -1,6 +1,6 @@
 # Hello, I'm Stenly Andika <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">
 
-### A Web & Desktop Developer
+### Web & Desktop Developer
 [![](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://StenlyAndika.github.io)
 [![](https://img.shields.io/badge/-Email-0088cc?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=stenly.andika@gmail.com)
@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Mobile App Development using cross-platform framework with Dart / Flutter.
+- 🚀 &nbsp; I’m currently improving Web Development using Laravel, and Mobile App Development using cross-platform framework with Dart / Flutter.
 - 🛠 &nbsp; I’m currently working with Git, Visual Studio Code, REST APIs, SQL, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/StenlyAndika).
 - 👾 &nbsp; Fun fact: I copied this from my friend and edited it a bit.
