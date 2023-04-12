@@ -18,7 +18,10 @@
 - 📫 &nbsp; How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=stenly.andika@gmail.com).
 
 ### Languages and Tools:
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/php" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/css3" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/laravel"></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter"></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></code>
