@@ -30,5 +30,5 @@
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></code>
 
 ### GitHub Statistics:
-[![](https://github-readme-stats-theend.vercel.app/api?username=StenlyAndika&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
-[![](https://github-readme-stats-theend.vercel.app/api/top-langs/?username=StenlyAndika&layout=compact)](https://github.com/StenlyAndika)
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=StenlyAndika&show_icons=true&theme=transparent)](https://github.com/StenlyAndika)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StenlyAndika&layout=compact)](https://github.com/StenlyAndika)
