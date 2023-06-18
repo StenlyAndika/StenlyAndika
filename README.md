@@ -26,7 +26,6 @@
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/laravel"></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter"></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /></code>
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/java" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></code>
 
