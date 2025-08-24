@@ -1,6 +1,6 @@
 # Hello, I'm Stenly Andika <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30px">
 
-### 💻 Aspiring Web & Mobile Developer 
+### 💻 Passionate Web & Mobile Developer 
 
 [![](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://StenlyAndika.github.io)
 [![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stenly.andika@gmail.com)
