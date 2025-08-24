@@ -32,7 +32,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StenlyAndika&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=StenlyAndika&show_icons=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=StenlyAndika&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StenlyAndika&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
